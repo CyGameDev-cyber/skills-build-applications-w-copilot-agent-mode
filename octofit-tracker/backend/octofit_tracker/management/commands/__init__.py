@@ -1,0 +1,1 @@
+print("DEBUG: commands directory is being loaded")
